@@ -1,6 +1,6 @@
-# Homework Ubiquiti
+# Device app
 
-Hello,this is homework from Karolina Uskure.
+Hello,this is device app from Karolina Uskure.
 Few notes on my project:
 -It was generated using Vite and for my component styling Ive picked Mantine.
 -DevicePage can be accesed by clicking on the device name in the table or grid.
